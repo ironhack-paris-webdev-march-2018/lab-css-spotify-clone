@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today we're going to copy an older (and simpler) version of the Spotify home page.
+Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today we're going to copy an older (and simpler) version of the Spotify home page:
+
+![](https://i.imgur.com/xVD0bm6.jpg)
 
 All of the necessary assets and images are included in the starter code.
 
@@ -18,3 +20,5 @@ All of the necessary assets and images are included in the starter code.
 #### Starter code
 
 The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css` with colors.
+
+**Let the rock begins**
